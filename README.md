@@ -52,4 +52,4 @@ ehfbhjewbfjehbfje.
 
 [gmail](http://www.gmail.com/)
 
-![Image of Yaktocat](https://github.com/bnagaraju403/kits-git/blob/main/img.jfif)
+![Image](https://github.com/bnagaraju403/kits-git/blob/main/img.jfif)
