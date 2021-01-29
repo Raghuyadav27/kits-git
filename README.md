@@ -10,3 +10,5 @@ __another bold__
 *italic foramt*
 
 _another italicforamt_
+
+_**italic and bold**_
