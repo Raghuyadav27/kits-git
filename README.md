@@ -53,8 +53,6 @@ ehfbhjewbfjehbfje.
 [gmail](http://www.gmail.com/)
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-![alt text](http://url/to/img.png)
+![ text](http://url/to/img.png)
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
 
