@@ -53,5 +53,5 @@ ehfbhjewbfjehbfje.
 [gmail](http://www.gmail.com/)
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-![Image of Yaktocat](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.stack.imgur.com%2FqAVdT.png&imgrefurl=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F52480647%2Fembed-a-pdf-in-a-r-markdown-file-and-adapt-pagination&tbnid=QbsUU5QbT5yPbM&vet=12ahUKEwihrsXMucDuAhX7BbcAHWPhAxAQMygAegUIARCaAQ..i&docid=Ut3-aWd0ZFaulM&w=1893&h=1074&q=images%20and%20pdf%20inserting%20in%20markdown&ved=2ahUKEwihrsXMucDuAhX7BbcAHWPhAxAQMygAegUIARCaAQ)
+![alt text](http://url/to/img.png)
 
