@@ -52,7 +52,4 @@ ehfbhjewbfjehbfje.
 
 [gmail](http://www.gmail.com/)
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-![ text](http://url/to/img.png)
-
-![alt text](http://url/to/img.png)
+![Image of Yaktocat](https://www.google.co.in/imgres?imgurl=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2015%2F04%2F23%2F22%2F00%2Ftree-736885__340.jpg&imgrefurl=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fnature%2F&tbnid=_2JirDBiGzi3lM&vet=12ahUKEwj0yJ2Zu8DuAhVMCHIKHUQ6Cs4QMygAegUIARDSAQ..i&docid=Ba_eiczVaD9-zM&w=546&h=340&q=images&hl=en&authuser=0&ved=2ahUKEwj0yJ2Zu8DuAhVMCHIKHUQ6Cs4QMygAegUIARDSAQ)
